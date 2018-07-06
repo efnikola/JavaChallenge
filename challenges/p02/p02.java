@@ -1,7 +1,7 @@
-package p03;
+package p02;
 import java.util.Scanner;
 
-public class p03 {
+public class p02 {
     public static void main(String[] args) {
         System.out.println("This program will convert your temperature to other scales");
         System.out.println("Input your temperature with a letter K-for Kelvins, C-for Celsius,F-farenheit");
