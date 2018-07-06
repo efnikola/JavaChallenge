@@ -1,10 +1,10 @@
-package p1;
+package p00;
 import java.io.IOException;
 import java.util.Random;
 // Namegenerator
 
 
-public class p1 {
+public class p00 {
 
     static Random rnd=new Random(System.currentTimeMillis());
     public static void main(String[] args) {
